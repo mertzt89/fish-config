@@ -1,3 +1,15 @@
+# Fish
+fish_variables
+
+# Fisher
 completions/fisher.fish
 functions/fisher.fish
-fish_variables
+
+# Tide Prompt
+completions/tide.fish
+conf.d/_tide*
+functions/tide/
+functions/_tide*
+functions/fish_mode_prompt.fish
+functions/fish_prompt.fish
+functions/tide.fish
